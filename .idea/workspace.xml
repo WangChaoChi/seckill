@@ -7,96 +7,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ddd2a851-15de-4787-9cac-fefb81481a6b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/seckill_Web_exploded/META-INF/MANIFEST.MF" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/seckill_Web_exploded/WEB-INF/web.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/seckill_Web_exploded/index.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/jdbc.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/logback.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/mapper/SeckillDao.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/mapper/SuccessKilledDao.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/mybatis-config.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/spring/spring-dao.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/spring/spring-service.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/spring/spring-web.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/wcc/seckill/dao/SeckillDao.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/wcc/seckill/dao/SuccessKilledDao.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/wcc/seckill/dto/Exposer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/wcc/seckill/dto/SeckillExecution.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/wcc/seckill/dto/SeckillResult.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/wcc/seckill/entity/Seckill.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/wcc/seckill/entity/SuccessKilled.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/wcc/seckill/enums/SeckillStateEnum.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/wcc/seckill/exception/RepeatKillException.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/wcc/seckill/exception/SeckillCloseException.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/wcc/seckill/exception/SeckillException.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/wcc/seckill/service/SeckillService.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/wcc/seckill/service/impl/SeckillServiceImpl.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/wcc/seckill/web/SeckillController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/seckill/META-INF/MANIFEST.MF" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/seckill/WEB-INF/classes/jdbc.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/seckill/WEB-INF/classes/logback.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/seckill/WEB-INF/classes/mapper/SeckillDao.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/seckill/WEB-INF/classes/mapper/SuccessKilledDao.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/seckill/WEB-INF/classes/mybatis-config.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/seckill/WEB-INF/classes/spring/spring-dao.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/seckill/WEB-INF/classes/spring/spring-service.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/seckill/WEB-INF/classes/spring/spring-web.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/seckill/WEB-INF/classes/wcc/seckill/dao/SeckillDao.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/seckill/WEB-INF/classes/wcc/seckill/dao/SuccessKilledDao.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/seckill/WEB-INF/classes/wcc/seckill/dto/Exposer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/seckill/WEB-INF/classes/wcc/seckill/dto/SeckillExecution.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/seckill/WEB-INF/classes/wcc/seckill/dto/SeckillResult.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/seckill/WEB-INF/classes/wcc/seckill/entity/Seckill.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/seckill/WEB-INF/classes/wcc/seckill/entity/SuccessKilled.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/seckill/WEB-INF/classes/wcc/seckill/enums/SeckillStateEnum.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/seckill/WEB-INF/classes/wcc/seckill/exception/RepeatKillException.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/seckill/WEB-INF/classes/wcc/seckill/exception/SeckillCloseException.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/seckill/WEB-INF/classes/wcc/seckill/exception/SeckillException.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/seckill/WEB-INF/classes/wcc/seckill/service/SeckillService.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/seckill/WEB-INF/classes/wcc/seckill/service/impl/SeckillServiceImpl.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/seckill/WEB-INF/classes/wcc/seckill/web/SeckillController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/seckill/WEB-INF/doc/使用cookie模仿登陆的前端交互流程.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/seckill/WEB-INF/doc/前端交互设计.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/seckill/WEB-INF/doc/秒杀API的URL设计.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/seckill/WEB-INF/jsp/common/head.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/seckill/WEB-INF/jsp/common/tag.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/seckill/WEB-INF/jsp/detail.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/seckill/WEB-INF/jsp/list.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/seckill/WEB-INF/lib/c3p0-0.9.1.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/seckill/WEB-INF/lib/commons-logging-1.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/seckill/WEB-INF/lib/hamcrest-core-1.3.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/seckill/WEB-INF/lib/jackson-annotations-2.8.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/seckill/WEB-INF/lib/jackson-core-2.8.8.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/seckill/WEB-INF/lib/jackson-databind-2.8.8.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/seckill/WEB-INF/lib/javax.servlet-api-3.1.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/seckill/WEB-INF/lib/jstl-1.1.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/seckill/WEB-INF/lib/junit-4.12.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/seckill/WEB-INF/lib/logback-classic-1.1.11.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/seckill/WEB-INF/lib/logback-core-1.1.11.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/seckill/WEB-INF/lib/mybatis-3.4.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/seckill/WEB-INF/lib/mybatis-spring-1.3.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/seckill/WEB-INF/lib/mysql-connector-java-5.1.39.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/seckill/WEB-INF/lib/slf4j-api-1.7.25.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/seckill/WEB-INF/lib/spring-aop-4.3.8.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/seckill/WEB-INF/lib/spring-beans-4.3.8.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/seckill/WEB-INF/lib/spring-context-4.3.8.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/seckill/WEB-INF/lib/spring-core-4.3.8.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/seckill/WEB-INF/lib/spring-expression-4.3.8.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/seckill/WEB-INF/lib/spring-jdbc-4.3.8.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/seckill/WEB-INF/lib/spring-test-4.3.9.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/seckill/WEB-INF/lib/spring-tx-4.3.8.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/seckill/WEB-INF/lib/spring-web-4.3.8.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/seckill/WEB-INF/lib/spring-webmvc-4.3.8.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/seckill/WEB-INF/lib/standard-1.1.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/seckill/WEB-INF/web.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/seckill/index.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/seckill/resource/plugin/jquery.countdown.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/seckill/resource/script/seckill.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/wcc/seckill/dao/SeckillDaoTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/wcc/seckill/dao/SuccessKilledDaoTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/wcc/seckill/service/impl/SeckillServiceImplTest.class" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/wcc/seckill/dao/cache/RedisDaoTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/seckill_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/seckill_war_exploded.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/wcc/seckill/service/impl/SeckillServiceImplTest.java" afterPath="$PROJECT_DIR$/src/test/java/wcc/seckill/service/impl/SeckillServiceImplTest.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -112,45 +27,50 @@
       <FILTER>wcc.seckill.dao.*</FILTER>
     </SUITE>
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand>
+      <path>
+        <item name="" type="eadb38e5:DatabaseStructure$Root" />
+        <item name="seckill@localhost" type="e3449647:DbNodeDescriptor" />
+      </path>
+      <path>
+        <item name="" type="eadb38e5:DatabaseStructure$Root" />
+        <item name="seckill@localhost" type="e3449647:DbNodeDescriptor" />
+        <item name="seckill" type="e3449647:DbNodeDescriptor" />
+      </path>
+      <path>
+        <item name="" type="eadb38e5:DatabaseStructure$Root" />
+        <item name="seckill@localhost" type="e3449647:DbNodeDescriptor" />
+        <item name="seckill" type="e3449647:DbNodeDescriptor" />
+        <item name="" type="fce03ad6:DatabaseStructure$GroupNode" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="list.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/list.jsp">
+      <file leaf-file-name="SeckillServiceImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/wcc/seckill/service/impl/SeckillServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="8" column="14" lean-forward="false" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="14" />
+            <state relative-caret-position="2318">
+              <caret line="149" column="31" lean-forward="false" selection-start-line="149" selection-start-column="31" selection-end-line="149" selection-end-column="31" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="detail.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/detail.jsp">
+      <file leaf-file-name="SeckillDao.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/wcc/seckill/dao/SeckillDao.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1406">
-              <caret line="74" column="42" lean-forward="false" selection-start-line="74" selection-start-column="42" selection-end-line="74" selection-end-column="42" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="seckill.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/resource/script/seckill.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="520">
-              <caret line="98" column="27" lean-forward="false" selection-start-line="98" selection-start-column="20" selection-end-line="98" selection-end-column="27" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SeckillExecution.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/wcc/seckill/dto/SeckillExecution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="16" column="28" lean-forward="false" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="28" />
+            <state relative-caret-position="665">
+              <caret line="40" column="9" lean-forward="false" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -159,8 +79,18 @@
       <file leaf-file-name="SeckillController.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/wcc/seckill/web/SeckillController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1539">
-              <caret line="98" column="59" lean-forward="false" selection-start-line="98" selection-start-column="59" selection-end-line="98" selection-end-column="59" />
+            <state relative-caret-position="1368">
+              <caret line="90" column="20" lean-forward="false" selection-start-line="90" selection-start-column="20" selection-end-line="90" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="353">
+              <caret line="172" column="28" lean-forward="false" selection-start-line="172" selection-start-column="21" selection-end-line="172" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -174,9 +104,9 @@
         <option value="Interface" />
         <option value="Enum" />
         <option value="FxmlFile" />
-        <option value="JUnit4 Test Class" />
-        <option value="Class" />
         <option value="Jsp File" />
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
       </list>
     </option>
   </component>
@@ -185,7 +115,11 @@
       <find>countdown</find>
       <find>seckillId</find>
       <find>params</find>
+      <find>killPhoneModal</find>
     </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
@@ -196,6 +130,9 @@
       <projects_view />
     </option>
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/wcc/seckill/web/SeckillController.java" root0="SKIP_INSPECTION" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -204,9 +141,7 @@
         <option value="$PROJECT_DIR$/src/main/java/wcc/seckill/entity/SuccessKilled.java" />
         <option value="$PROJECT_DIR$/src/main/resources/mybatis-config.xml" />
         <option value="$PROJECT_DIR$/src/main/java/wcc/seckill/entity/Seckill.java" />
-        <option value="$PROJECT_DIR$/src/main/java/wcc/seckill/dao/SeckillDao.java" />
         <option value="$PROJECT_DIR$/src/test/java/wcc/seckill/dao/SeckillDaoTest.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/mapper/SeckillDao.xml" />
         <option value="$PROJECT_DIR$/src/main/java/wcc/seckill/dao/SuccessKilledDao.java" />
         <option value="$PROJECT_DIR$/src/main/resources/mapper/SuccessKilledDao.xml" />
         <option value="$PROJECT_DIR$/src/test/java/wcc/seckill/dao/SuccessKilledDaoTest.java" />
@@ -214,27 +149,38 @@
         <option value="$PROJECT_DIR$/src/main/java/wcc/seckill/exception/SeckillException.java" />
         <option value="$PROJECT_DIR$/src/main/java/wcc/seckill/exception/RepeatKillException.java" />
         <option value="$PROJECT_DIR$/src/main/java/wcc/seckill/exception/SeckillCloseException.java" />
-        <option value="$PROJECT_DIR$/src/main/java/wcc/seckill/service/SeckillService.java" />
         <option value="$PROJECT_DIR$/src/main/java/wcc/seckill/enums/SeckillStateEnum.java" />
         <option value="$PROJECT_DIR$/src/main/java/wcc/seckill/dto/SeckillExecution.java" />
         <option value="$PROJECT_DIR$/src/main/resources/spring/spring-service.fxml" />
-        <option value="$PROJECT_DIR$/src/main/java/wcc/seckill/service/impl/SeckillServiceImpl.java" />
         <option value="$MAVEN_REPOSITORY$/org/springframework/spring-test/4.3.9.RELEASE/spring-test-4.3.9.RELEASE.jar!/org/springframework/test/context/ContextConfiguration.class" />
         <option value="$PROJECT_DIR$/src/main/java/wcc/seckill/dto/Exposer.java" />
-        <option value="$PROJECT_DIR$/src/test/java/wcc/seckill/service/impl/SeckillServiceImplTest.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/src/main/resources/logback.xml" />
-        <option value="$PROJECT_DIR$/src/main/resources/spring/spring-dao.xml" />
         <option value="$PROJECT_DIR$/src/main/resources/spring/spring-service.xml" />
         <option value="$PROJECT_DIR$/src/main/java/wcc/seckill/dto/SeckillResult.java" />
         <option value="$PROJECT_DIR$/src/main/resources/spring/spring-web.xml" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/common/head.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/common/tag.jsp" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/list.jsp" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/wcc/seckill/web/SeckillController.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/detail.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/resource/script/seckill.js" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/list.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/wcc/seckill/dao/cache/RedisDao.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/spring/spring-dao.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/wcc/seckill/dao/cache/RedisDaoTest.java" />
+        <option value="src:table:/68dc3feb/8c989fb1-f65e-4561-84ff-bbd60c98c6e4/seckill.success_killed" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/8c989fb1-f65e-4561-84ff-bbd60c98c6e4/console.sql" />
+        <option value="$PROJECT_DIR$/src/main/sql/seckill.sql" />
+        <option value="$PROJECT_DIR$/src/main/java/wcc/seckill/service/SeckillService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/wcc/seckill/dao/SeckillDao.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/mapper/SeckillDao.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/seckill.iml" />
+        <option value="$PROJECT_DIR$/src/main/java/wcc/seckill/service/impl/SeckillServiceImpl.java" />
+        <option value="$PROJECT_DIR$/.idea/encodings.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/wcc/seckill/service/impl/SeckillServiceImplTest.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$MAVEN_REPOSITORY$/commons-collections/commons-collections/3.2.2/commons-collections-3.2.2.jar!/org/apache/commons/collections/MapUtils.class" />
+        <option value="$PROJECT_DIR$/src/main/java/wcc/seckill/web/SeckillController.java" />
       </list>
     </option>
   </component>
@@ -290,7 +236,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -309,27 +258,133 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="seckill" type="b2602c69:ProjectViewProjectNode" />
+              <item name="seckill" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="seckill" type="b2602c69:ProjectViewProjectNode" />
+              <item name="seckill" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="seckill" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="seckill" type="b2602c69:ProjectViewProjectNode" />
+              <item name="seckill" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="seckill" type="462c0819:PsiDirectoryNode" />
+              <item name="entity" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="seckill" type="b2602c69:ProjectViewProjectNode" />
+              <item name="seckill" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="seckill" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="seckill" type="b2602c69:ProjectViewProjectNode" />
+              <item name="seckill" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="seckill" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="seckill" type="b2602c69:ProjectViewProjectNode" />
+              <item name="seckill" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="seckill" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="seckill" type="b2602c69:ProjectViewProjectNode" />
+              <item name="seckill" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="seckill" type="b2602c69:ProjectViewProjectNode" />
+              <item name="seckill" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="mapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="seckill" type="b2602c69:ProjectViewProjectNode" />
+              <item name="seckill" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="seckill" type="b2602c69:ProjectViewProjectNode" />
+              <item name="seckill" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="sql" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="seckill" type="b2602c69:ProjectViewProjectNode" />
+              <item name="seckill" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="seckill" type="b2602c69:ProjectViewProjectNode" />
+              <item name="seckill" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="seckill" type="b2602c69:ProjectViewProjectNode" />
+              <item name="seckill" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="jsp" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="D:/Program Files/Git/bin/git.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="SearchEverywhereHistoryKey" value="sql&#9;FILE&#9;file://E:/IdeaProjects/seckill/src/main/sql/schema.sql&#10;pom&#9;FILE&#9;file://E:/IdeaProjects/seckill/pom.xml" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="wcc.seckill.dao.cache" />
       <recent name="wcc.seckill.service.impl" />
       <recent name="wcc.seckill.dao" />
     </key>
@@ -356,131 +411,6 @@
     </option>
   </component>
   <component name="RunManager" selected="Tomcat Server.tomcat8.0.38">
-    <configuration name="SeckillServiceImplTest.executeSeckill" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="wcc.seckill.service.impl.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="seckill" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="wcc.seckill.service.impl" />
-      <option name="MAIN_CLASS_NAME" value="wcc.seckill.service.impl.SeckillServiceImplTest" />
-      <option name="METHOD_NAME" value="executeSeckill" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration name="SeckillServiceImplTest.exportSeckillUrl" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="wcc.seckill.service.impl.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="seckill" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="wcc.seckill.service.impl" />
-      <option name="MAIN_CLASS_NAME" value="wcc.seckill.service.impl.SeckillServiceImplTest" />
-      <option name="METHOD_NAME" value="exportSeckillUrl" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration name="SeckillServiceImplTest.getById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="wcc.seckill.service.impl.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="seckill" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="wcc.seckill.service.impl" />
-      <option name="MAIN_CLASS_NAME" value="wcc.seckill.service.impl.SeckillServiceImplTest" />
-      <option name="METHOD_NAME" value="getById" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration name="SeckillServiceImplTest.getSeckillList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="wcc.seckill.service.impl.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="seckill" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="wcc.seckill.service.impl" />
-      <option name="MAIN_CLASS_NAME" value="wcc.seckill.service.impl.SeckillServiceImplTest" />
-      <option name="METHOD_NAME" value="getSeckillList" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration name="SeckillServiceImplTest.testSeckillLogic" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="wcc.seckill.service.impl.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="seckill" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="wcc.seckill.service.impl" />
-      <option name="MAIN_CLASS_NAME" value="wcc.seckill.service.impl.SeckillServiceImplTest" />
-      <option name="METHOD_NAME" value="testSeckillLogic" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -564,6 +494,7 @@
     </configuration>
     <configuration name="tomcat8.0.38" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.0.38" ALTERNATIVE_JRE_ENABLED="false">
       <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
+      <option name="COMMON_VM_ARGUMENTS" value="-Dfile.encoding=UTF-8" />
       <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
       <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
       <deployment>
@@ -636,23 +567,6 @@
         </option>
       </method>
     </configuration>
-    <list size="6">
-      <item index="0" class="java.lang.String" itemvalue="Tomcat Server.tomcat8.0.38" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.SeckillServiceImplTest.getById" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.SeckillServiceImplTest.getSeckillList" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.SeckillServiceImplTest.exportSeckillUrl" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.SeckillServiceImplTest.executeSeckill" />
-      <item index="5" class="java.lang.String" itemvalue="JUnit.SeckillServiceImplTest.testSeckillLogic" />
-    </list>
-    <recent_temporary>
-      <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.SeckillServiceImplTest.testSeckillLogic" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.SeckillServiceImplTest.executeSeckill" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.SeckillServiceImplTest.exportSeckillUrl" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.SeckillServiceImplTest.getSeckillList" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.SeckillServiceImplTest.getById" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -682,47 +596,76 @@
       <workItem from="1519368150529" duration="116000" />
       <workItem from="1519458353313" duration="1828000" />
       <workItem from="1519649953625" duration="939000" />
+      <workItem from="1521524024278" duration="1840000" />
+      <workItem from="1522467918285" duration="5464000" />
+      <workItem from="1522555415405" duration="652000" />
+      <workItem from="1522556623559" duration="730000" />
+      <workItem from="1522564223874" duration="20802000" />
+      <workItem from="1522595263300" duration="1728000" />
+      <workItem from="1522632228485" duration="104000" />
+      <workItem from="1522915289095" duration="560000" />
     </task>
+    <task id="LOCAL-00001" summary="1">
+      <created>1522492663764</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1522492663764</updated>
+    </task>
+    <task id="LOCAL-00002" summary="改按钮汉字">
+      <created>1522492715498</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1522492715498</updated>
+    </task>
+    <task id="LOCAL-00003" summary="高并发优化">
+      <created>1522915849079</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1522915849079</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SeckillServiceImplTest_executeSeckill - 2018.02.21 at 13h 33m 45s.xml">
-      <configuration name="SeckillServiceImplTest.executeSeckill" configurationId="JUnit" />
+    <history-entry file="SeckillServiceImplTest_executeSeckillProcedure - 2018.04.01 at 22h 52m 31s.xml">
+      <configuration name="SeckillServiceImplTest.executeSeckillProcedure" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SeckillServiceImplTest_executeSeckill - 2018.02.21 at 13h 43m 27s.xml">
-      <configuration name="SeckillServiceImplTest.executeSeckill" configurationId="JUnit" />
+    <history-entry file="SeckillServiceImplTest_executeSeckillProcedure - 2018.04.01 at 22h 53m 21s.xml">
+      <configuration name="SeckillServiceImplTest.executeSeckillProcedure" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SeckillServiceImplTest_exportSeckillUrl - 2018.02.21 at 13h 19m 09s.xml">
-      <configuration name="SeckillServiceImplTest.exportSeckillUrl" configurationId="JUnit" />
+    <history-entry file="SeckillServiceImplTest_executeSeckillProcedure - 2018.04.01 at 22h 54m 08s.xml">
+      <configuration name="SeckillServiceImplTest.executeSeckillProcedure" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SeckillServiceImplTest_exportSeckillUrl - 2018.02.21 at 13h 20m 55s.xml">
-      <configuration name="SeckillServiceImplTest.exportSeckillUrl" configurationId="JUnit" />
+    <history-entry file="SeckillServiceImplTest_executeSeckillProcedure - 2018.04.01 at 22h 58m 40s.xml">
+      <configuration name="SeckillServiceImplTest.executeSeckillProcedure" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SeckillServiceImplTest_exportSeckillUrl - 2018.02.21 at 13h 26m 34s.xml">
-      <configuration name="SeckillServiceImplTest.exportSeckillUrl" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SeckillServiceImplTest_exportSeckillUrl - 2018.02.21 at 13h 29m 22s.xml">
-      <configuration name="SeckillServiceImplTest.exportSeckillUrl" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SeckillServiceImplTest_getSeckillList - 2018.02.21 at 13h 16m 16s.xml">
-      <configuration name="SeckillServiceImplTest.getSeckillList" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SeckillServiceImplTest_testSeckillLogic - 2018.02.21 at 13h 49m 11s.xml">
+    <history-entry file="SeckillServiceImplTest_testSeckillLogic - 2018.04.01 at 22h 42m 06s.xml">
       <configuration name="SeckillServiceImplTest.testSeckillLogic" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SeckillServiceImplTest_testSeckillLogic - 2018.02.21 at 13h 49m 40s.xml">
+    <history-entry file="SeckillServiceImplTest_testSeckillLogic - 2018.04.01 at 22h 47m 10s.xml">
       <configuration name="SeckillServiceImplTest.testSeckillLogic" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SeckillServiceImplTest_testSeckillLogic - 2018.02.21 at 13h 50m 20s.xml">
+    <history-entry file="SeckillServiceImplTest_testSeckillLogic - 2018.04.01 at 22h 47m 43s.xml">
+      <configuration name="SeckillServiceImplTest.testSeckillLogic" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SeckillServiceImplTest_testSeckillLogic - 2018.04.01 at 22h 49m 54s.xml">
+      <configuration name="SeckillServiceImplTest.testSeckillLogic" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SeckillServiceImplTest_testSeckillLogic - 2018.04.01 at 22h 50m 48s.xml">
+      <configuration name="SeckillServiceImplTest.testSeckillLogic" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SeckillServiceImplTest_testSeckillLogic - 2018.04.01 at 22h 51m 25s.xml">
       <configuration name="SeckillServiceImplTest.testSeckillLogic" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="98986000" />
+    <option name="totallyTimeSpent" value="130866000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -731,30 +674,31 @@
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40789473" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.12405446" sideWeight="0.4857143" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5115132" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40655738" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.120272316" sideWeight="0.4857143" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5032787" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24590164" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25642964" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20196672" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1580938" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28618422" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5147541" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2450658" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2442623" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12405446" sideWeight="0.51428574" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34590164" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -764,163 +708,23 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1" />
+    <MESSAGE value="改按钮汉字" />
+    <MESSAGE value="高并发优化" />
+    <option name="LAST_COMMIT_MESSAGE" value="高并发优化" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <option name="time" value="3" />
     </breakpoint-manager>
     <watches-manager />
   </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/SeckillDao.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="23" column="35" lean-forward="true" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/wcc/seckill/dao/SeckillDaoTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="23" column="39" lean-forward="false" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/spring/spring-dao.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="30" column="55" lean-forward="true" selection-start-line="30" selection-start-column="55" selection-end-line="30" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="60" lean-forward="false" selection-start-line="19" selection-start-column="60" selection-end-line="19" selection-end-column="60" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="65" lean-forward="false" selection-start-line="7" selection-start-column="65" selection-end-line="7" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="22" lean-forward="true" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/applicationContext.xml" />
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="65" lean-forward="false" selection-start-line="7" selection-start-column="65" selection-end-line="7" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/wcc/seckill/entity/SuccessKilled.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="311">
-          <caret line="54" column="33" lean-forward="false" selection-start-line="54" selection-start-column="33" selection-end-line="54" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/sql/schema.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="21" column="6" lean-forward="true" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_111/src.zip!/java/sql/Date.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="42" column="13" lean-forward="false" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_111/src.zip!/java/util/Date.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="130" column="13" lean-forward="false" selection-start-line="130" selection-start-column="13" selection-end-line="130" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/SuccessKilledDao.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="11" column="45" lean-forward="true" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/wcc/seckill/dao/SeckillDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
-          <caret line="33" column="61" lean-forward="false" selection-start-line="33" selection-start-column="56" selection-end-line="33" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/wcc/seckill/dao/SuccessKilledDaoTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
-          <caret line="32" column="27" lean-forward="false" selection-start-line="32" selection-start-column="27" selection-end-line="32" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/SeckillDao.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="118">
-          <caret line="34" column="21" lean-forward="false" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/mybatis-config.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="37" lean-forward="false" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/jdbc.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="42" lean-forward="false" selection-start-line="1" selection-start-column="42" selection-end-line="1" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/wcc/seckill/dao/SeckillDaoTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="58" column="14" lean-forward="false" selection-start-line="58" selection-start-column="8" selection-end-line="58" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/wcc/seckill/exception/SeckillCloseException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="59" lean-forward="false" selection-start-line="7" selection-start-column="59" selection-end-line="7" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/wcc/seckill/exception/RepeatKillException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="30" lean-forward="true" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/spring/spring-service.fxml" />
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-test/4.3.9.RELEASE/spring-test-4.3.9.RELEASE.jar!/org/springframework/test/context/ContextConfiguration.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="20" column="10" lean-forward="true" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/wcc/seckill/dao/SuccessKilledDao.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -935,24 +739,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/wcc/seckill/enums/SeckillStateEnum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="25" lean-forward="false" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/logback.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="38" lean-forward="false" selection-start-line="0" selection-start-column="38" selection-end-line="0" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/wcc/seckill/service/impl/SeckillServiceImplTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="608">
-          <caret line="47" column="13" lean-forward="false" selection-start-line="47" selection-start-column="13" selection-end-line="47" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -964,32 +754,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/doc/SpringMVC的运行流程.png" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/wcc/seckill/service/SeckillService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="406">
-          <caret line="49" column="79" lean-forward="false" selection-start-line="49" selection-start-column="58" selection-end-line="49" selection-end-column="79" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/wcc/seckill/service/impl/SeckillServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="60" column="26" lean-forward="false" selection-start-line="60" selection-start-column="26" selection-end-line="60" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/spring/spring-dao.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-364">
-          <caret line="3" column="60" lean-forward="false" selection-start-line="3" selection-start-column="60" selection-end-line="3" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/spring/spring-service.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="282">
           <caret line="20" column="11" lean-forward="false" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1012,7 +780,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
           <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1020,7 +787,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
           <caret line="10" column="12" lean-forward="false" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1050,15 +816,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="164" column="16" lean-forward="true" selection-start-line="164" selection-start-column="16" selection-end-line="164" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1069,59 +826,286 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/wcc/seckill/dto/SeckillExecution.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/wcc/seckill/enums/SeckillStateEnum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="16" column="28" lean-forward="false" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="28" />
-          <folding />
+        <state relative-caret-position="608">
+          <caret line="36" column="7" lean-forward="true" selection-start-line="36" selection-start-column="7" selection-end-line="36" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/wcc/seckill/web/SeckillController.java">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/jdbc.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1539">
-          <caret line="98" column="59" lean-forward="false" selection-start-line="98" selection-start-column="59" selection-end-line="98" selection-end-column="59" />
+        <state relative-caret-position="57">
+          <caret line="3" column="14" lean-forward="true" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/resource/script/seckill.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="114" column="49" lean-forward="true" selection-start-line="114" selection-start-column="49" selection-end-line="114" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/detail.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="67" column="62" lean-forward="true" selection-start-line="67" selection-start-column="62" selection-end-line="67" selection-end-column="62" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/list.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="8" column="14" lean-forward="false" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="14" />
+        <state relative-caret-position="285">
+          <caret line="40" column="32" lean-forward="true" selection-start-line="40" selection-start-column="32" selection-end-line="40" selection-end-column="32" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/detail.jsp">
+    <entry file="file://$PROJECT_DIR$/src/main/java/wcc/seckill/dto/SeckillExecution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1406">
-          <caret line="74" column="42" lean-forward="false" selection-start-line="74" selection-start-column="42" selection-end-line="74" selection-end-column="42" />
+        <state relative-caret-position="0">
+          <caret line="16" column="28" lean-forward="false" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="28" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/wcc/seckill/dao/cache/RedisDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="16" column="21" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#600#601#0" expanded="false" />
+            <element signature="e#651#652#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring/spring-dao.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="59" column="49" lean-forward="false" selection-start-line="59" selection-start-column="49" selection-end-line="59" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/wcc/seckill/dao/cache/RedisDaoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="27" column="16" lean-forward="false" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://src:table:/68dc3feb/8c989fb1-f65e-4561-84ff-bbd60c98c6e4/seckill.success_killed">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://src:table:/68dc3feb/8c989fb1-f65e-4561-84ff-bbd60c98c6e4/seckill.seckill">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-12">
+          <caret line="1" column="13" lean-forward="false" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/sql/schema.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="21" column="6" lean-forward="false" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbSrc:///68dc3feb/8c989fb1-f65e-4561-84ff-bbd60c98c6e4/schema/seckill/routine/execute_seckill.(bigint(20),bigint(20),timestamp).sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="18" column="32" lean-forward="true" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/8c989fb1-f65e-4561-84ff-bbd60c98c6e4/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/wcc/seckill/entity/SuccessKilled.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/wcc/seckill/service/SeckillService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="58" column="89" lean-forward="false" selection-start-line="58" selection-start-column="89" selection-end-line="58" selection-end-column="89" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/sql/seckill.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="32" lean-forward="false" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="44" lean-forward="true" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/dataSources.local.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="33" lean-forward="true" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seckill.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="21" column="64" lean-forward="false" selection-start-line="21" selection-start-column="64" selection-end-line="21" selection-end-column="64" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="76">
+          <caret line="4" column="6" lean-forward="false" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/encodings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/commons-collections/commons-collections/3.2.2/commons-collections-3.2.2.jar!/org/apache/commons/collections/MapUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="80" column="25" lean-forward="false" selection-start-line="80" selection-start-column="25" selection-end-line="80" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/wcc/seckill/service/impl/SeckillServiceImplTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="71" column="29" lean-forward="false" selection-start-line="71" selection-start-column="29" selection-end-line="71" selection-end-column="29" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/resource/script/seckill.js">
+    <entry file="file://$PROJECT_DIR$/src/main/java/wcc/seckill/web/SeckillController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="520">
-          <caret line="98" column="27" lean-forward="false" selection-start-line="98" selection-start-column="20" selection-end-line="98" selection-end-column="27" />
+        <state relative-caret-position="1368">
+          <caret line="90" column="20" lean-forward="false" selection-start-line="90" selection-start-column="20" selection-end-line="90" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://table:/68dc3feb/8c989fb1-f65e-4561-84ff-bbd60c98c6e4/seckill.seckill">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://table:/68dc3feb/8c989fb1-f65e-4561-84ff-bbd60c98c6e4/seckill.success_killed">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/wcc/seckill/service/impl/SeckillServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2318">
+          <caret line="149" column="31" lean-forward="false" selection-start-line="149" selection-start-column="31" selection-end-line="149" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/wcc/seckill/dao/SeckillDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="665">
+          <caret line="40" column="9" lean-forward="false" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/SeckillDao.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="47" column="20" lean-forward="false" selection-start-line="47" selection-start-column="14" selection-end-line="47" selection-end-column="20" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <marker date="1522587569874" expanded="true" signature="552:764" ph="UPDATE secki... " />
+            <marker date="1522587569874" expanded="true" signature="859:999" ph="SELECT secki... seckill" />
+            <marker date="1522587569874" expanded="true" signature="1072:1239" ph="SELECT secki... seckill" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="172" column="28" lean-forward="false" selection-start-line="172" selection-start-column="21" selection-end-line="172" selection-end-column="28" />
+          <folding />
         </state>
       </provider>
     </entry>
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArquillianSettingsConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
@@ -1173,7 +1157,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>seckill</last-edited>
+          <last-edited>Web|seckill</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
